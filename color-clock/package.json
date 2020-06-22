@@ -1,0 +1,22 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "\"A clock that changes colour every second\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-co-students/npm-lab-lon01-seng-ft-042020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learn-co-students/npm-lab-lon01-seng-ft-042020/issues"
+  },
+  "homepage": "https://github.com/learn-co-students/npm-lab-lon01-seng-ft-042020#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
